@@ -7,7 +7,7 @@ You can define an array of user ids or forum ids to remap content to the correct
 
 The script requires you to have a cookie from a valid tapatalk session, take the cookie using Charles Proxy (or similar) and paste it into the variable in the script.
 
-This script is nowhere close to production ready, it was written quickly for one forum migration of about 30,000 posts. It worked well enough for our purposes in the current forum and will no longer be developed.
+This script is nowhere close to production ready, it was written quickly for one forum migration of about 30,000 posts. It worked well enough for our purposes in the current build and will no longer be developed.
 
 - After running this script:
   - Recount your user's content count in the Members panel of the Admin CP
