@@ -12,7 +12,7 @@ This script is nowhere close to production ready, it was written quickly for one
 - After running this script:
   - Recount your user's content count in the Members panel of the Admin CP
   - Rebuild your search index
-  - Add and delete a post to one of the forum's posts to refresh the post count and "latest post" displayed on the forum index
+  - Add and delete a post to one of each forum's posts to refresh the post count and "latest post" displayed on the home page
   
 - Known Issues:
   - Last post date does not get updated properly for every thread, similarly the last post user is sometimes not updated. This can be resolved with some SQL queries to update the databases
