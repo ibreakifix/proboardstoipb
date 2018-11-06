@@ -3,7 +3,7 @@ Proboards to IPB Conversion via Mobiquo Scraping
 
 This script takes content from your proboards forum via Taptalk API, converts the BBCode (most of it) into HTML compatible with IPS's requirements and inserts it into the IPS database. 
 
-You can define an array of user ids or forum ids to remap content to the correct users / forums on your new board. 
+You can define an array of user ids or forum ids to remap content to the correct users / forums on your new board in this format Proboards_ID => IPB_ID
 
 The script requires you to have a cookie from a valid tapatalk session, take the cookie using Charles Proxy (or similar) and paste it into the variable in the script.
 
